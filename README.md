@@ -12,7 +12,7 @@
 - Main1：  
 ![1](https://github.com/Tonghui-Wang/RRT_3D_Path_Plan/assets/23735485/b0da55df-8f00-4f11-a6f5-511ddd379bd9)  
 
-- Main3：  
+- Main2：  
 ![2](https://github.com/Tonghui-Wang/RRT_3D_Path_Plan/assets/23735485/cf7d1e9d-dc78-493e-ba62-b6e2de3c3c1e)  
 
 效果：  
